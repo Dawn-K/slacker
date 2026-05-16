@@ -26,7 +26,7 @@ mv ./ls whoami
 ./whoami          # prints your username
 
 mv ./whoami cat
-./cat README.md   # same as system cat
+./cat ../README.md # same as system cat
 ```
 
 > **Warning:** If you put a slacker symlink (e.g. `ls`) in a directory that appears
